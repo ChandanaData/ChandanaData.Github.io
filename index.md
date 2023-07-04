@@ -4,6 +4,11 @@
 
 ### Learn About My Projects
 
+#### [Marketing Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
+[<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
+My analysis on DoorDash marketing data using Excel.
+
+---
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
@@ -12,12 +17,6 @@ Tolulope is the best
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [Marketing Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
-[<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
-My analysis on DoorDash marketing data using Excel.
-
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
