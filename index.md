@@ -10,7 +10,7 @@ My analysis on DoorDash marketing data using Excel.
 
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Education.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
