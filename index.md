@@ -6,15 +6,18 @@
 
 #### [Marketing Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
-My analysis on DoorDash marketing data using Excel.
+Do you know how much a customer spends on food delivery on average? What age group spends most? Let's dig in!
 
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
 [<img src="images/Education.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+Ever wondered how schools come up with strategies to improve grades, attendence rates etc? 
+In this project we analyze Massachusetts Education Data to generate some meaningful visualizations
+
+---
+#### [World Bank Finance Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
+[<img src="images/World Bank.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
+Coming soon!
 
 ---
 #### [Internal Blog Post Project](/bank)
