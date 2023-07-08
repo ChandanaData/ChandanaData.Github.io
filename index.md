@@ -11,7 +11,7 @@ Do you know the average expenditure of customers on food delivery? Which age gro
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
 [<img src="images/Education.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
-Ever wondered the methods schools employ to improve grades and attendence rates? <br>
+Ever wondered the methods schools employ to improve grades and attendence rates?
 In this project, we analyze Massachusetts Education Data to generate some meaningful visualizations
 
 ---
