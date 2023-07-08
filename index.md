@@ -6,13 +6,13 @@
 
 #### [Marketing Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
-Do you know how much a customer spends on food delivery on average? What age group spends most? Let's dig in!
+Do you know the average expenditure of customers on food delivery? Which age group spends the most? Let's dig in!
 
 ---
 #### [Massachusetts Education Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
 [<img src="images/Education.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
-Ever wondered how schools come up with strategies to improve grades, attendence rates etc? 
-In this project we analyze Massachusetts Education Data to generate some meaningful visualizations
+Ever wondered the methods schools employ to improve grades and attendence rates? <br>
+In this project, we analyze Massachusetts Education Data to generate some meaningful visualizations
 
 ---
 #### [World Bank Finance Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
