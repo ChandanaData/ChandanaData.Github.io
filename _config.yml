@@ -3,7 +3,7 @@ logo: "/images/GitHub_profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data enthusiast who loves to read and travel!  <br><br>
 
-  <a href=/about_me>About Me</a> <br>
+  <a href=/about_me>About Me</a> <br><br>
   <a href="https://www.linkedin.com/in/chandana-chouhan/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
