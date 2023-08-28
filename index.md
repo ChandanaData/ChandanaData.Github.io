@@ -15,7 +15,7 @@ Ever wondered the methods schools employ to improve grades and attendence rates?
 In this project, we analyze Massachusetts Education Data to generate some meaningful visualizations
 
 ---
-#### [World Bank Finance Project](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur/)
+#### [World Bank Finance Project](https://www.linkedin.com/pulse/analyzing-world-bank-data-chandana-d-chouhan-thakur/)
 [<img src="images/World Bank.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
 Coming soon!
 
