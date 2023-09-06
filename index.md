@@ -17,7 +17,8 @@ In this project, we analyze Massachusetts Education Data to generate some meanin
 ---
 #### [World Bank Finance Project](https://www.linkedin.com/pulse/analyzing-world-bank-data-chandana-d-chouhan-thakur/)
 [<img src="images/World Bank.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-massachusetts-education-data-chandana-d-chouhan-thakur)
-Coming soon!
+From where does the developing countries get their financial assistance? 
+Which country has the highest debt and which country has repaid the most? Let's dig in!
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
