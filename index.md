@@ -21,8 +21,8 @@ From where does the developing countries get their financial assistance?
 Which country has the highest debt and which country has repaid the most? Let's dig in!
 
 ---
-#### [Healthcare Data Analysis](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [Healthcare Data Analysis]
+<img src="images/Healthcare.png?raw=true"/>
 Coming soon! 
 
 ---
