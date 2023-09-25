@@ -1,6 +1,8 @@
-# Welcome to My Data Portfolio
+# Welcome to My Data Analytics Portfolio
 
 ---
+
+## Projects
 
 #### [Marketing Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
