@@ -2,8 +2,6 @@
 
 ---
 
-### Learn About My Projects
-
 #### [Marketing Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/analyzing-doordashs-marketing-data-chandana-d-chouhan-thakur/?trackingId=l5RM5xyBTzCHwIQy045cWA%3D%3D)
 Do you know the average expenditure of customers on food delivery? Which age group spends the most? Let's dig in!
