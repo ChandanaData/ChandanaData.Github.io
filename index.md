@@ -21,19 +21,9 @@ From where does the developing countries get their financial assistance?
 Which country has the highest debt and which country has repaid the most? Let's dig in!
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Healthcare Data Analysis](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Coming soon! 
 
 ---
 
