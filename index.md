@@ -21,9 +21,9 @@ From where does the developing countries get their financial assistance?
 Which country has the highest debt and which country has repaid the most? Let's dig in!
 
 ---
-#### Healthcare Data Analysis
+#### [Healthcare Data Analysis](https://www.linkedin.com/pulse/diabetes-data-dive-sql-analysis-us-hospitals-chouhan-thakur-lwixe/)
 <img src="images/Healthcare.png?raw=true"/>
-Coming soon! 
+On average how long does patients stay at the hospital? Which department performs highest number of surgeries? Let's find out! 
 
 ---
 
